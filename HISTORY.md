@@ -1,3 +1,11 @@
+## v35.3.0
+Release Date: 2024-01-01
+* PR 496: Improves Denmark CPR number generator with checksum validation. Thanks @MunroRaymaker and @NielsPilgaard!
+
+## v35.2.0
+Release Date: 2023-12-26
+* Issue 497: PR 522 - Better Xamarin AOT compatibility. Renames/removes diacritics from API method names Finland: Henkilötunnus -> Henkilotunnus; Norway: Fødselsnummer -> Fodselsnummer.
+
 ## v35.0.1
 Release Date: 2023-12-11
 * PR 513: Update Swedish `sv` locale; first/last names. Thanks @EBD232!
